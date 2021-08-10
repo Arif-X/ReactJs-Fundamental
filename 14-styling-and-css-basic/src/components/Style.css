@@ -1,0 +1,9 @@
+.primary {
+    color: blue;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.font-xl {
+    font-size: 100px;
+}
